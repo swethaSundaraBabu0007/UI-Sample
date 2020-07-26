@@ -1,0 +1,26 @@
+header
+{
+    text-align: center;
+    background-color:#FFA07A;
+    padding: 25px;
+    font-size: 25px ;
+}
+body {
+    background-color: #fefbd8;
+  }
+
+#prime
+{
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+#perfect
+{
+    
+    font-size: 25px;
+    text-align: center;
+    padding: 25px;
+}
